@@ -1,1 +1,1 @@
-sudo netdiscover -r LOCALHOST/24i
+sudo netdiscover -r LOCALHOST/24
